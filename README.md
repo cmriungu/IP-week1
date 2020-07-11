@@ -19,7 +19,7 @@ No known bugs at the moment.
 ## Website link
 Link: https://cmriungu.github.io/IP-week1/  
 ## Support and contact details
-For any comments, feedback, bug reports or requests, kindly email me on: riungucharles@gmail.com
+For any comments, feedback, bug reports or/and requests, kindly email me on: riungucharles@gmail.com
 ### License
 This project is licensed under the terms of the GNU General Public license.
 Copyright (c) 2020 **Charles Riungu**
